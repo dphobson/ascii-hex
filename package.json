@@ -1,11 +1,11 @@
 {
   "name": "ascii-hex",
   "main": "./lib/ascii-hex",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Convert your selected text from ASCII to hex and vice versa",
   "keywords": [ "ascii-hex", "hex", "ascii", "convert", "converter"
   ],
-  "repository": "https://github.com/atom/ascii-hex",
+  "repository": "https://github.com/dphobson/ascii-hex",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
