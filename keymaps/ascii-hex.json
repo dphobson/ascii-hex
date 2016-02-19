@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-shift-h": "ascii-hex:asciiToHex",
+    "ctrl-shift-a": "ascii-hex:hexToAscii"
+  }
+}

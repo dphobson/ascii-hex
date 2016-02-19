@@ -1,0 +1,7 @@
+{ "context-menu": {
+    "atom-text-editor": [
+      {"label": "ASCII to hex", "command": "ascii-hex:asciiToHex"},
+      {"label": "Hex To ASCII", "command": "ascii-hex:hexToAscii"}
+    ]
+  }
+}
